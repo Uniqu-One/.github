@@ -54,8 +54,9 @@ CI/CD,클라우드 서비스(AWS), 상품,팔로우, 좋아요 <br>
 # 프로젝트 관련 문서 링크
 
 <a href = "https://www.figma.com/file/pJQhTFdmH8IbkJqyT6qYeS/UNIQUONE?node-id=1%3A1150">
-화면설계서 및 UI UX 디자인
+<img width=200 src="https://img.shields.io/badge/화면설계서 및 UI UX 디자인-F24E1E?style=plastic&logo=Figma&logoColor=white"/>
 </a>
+<br>
 
 <a href = "https://uniquone.notion.site/b81c22bc329a408d88844a16e88a65bc">
 <img width=200 src="https://img.shields.io/badge/팀 회고 및 스프린트 회의 관리-232F3E?style=plastic&logo=Notion&logoColor=white"/>
