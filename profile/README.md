@@ -75,7 +75,7 @@ CI/CD,클라우드 서비스(AWS), 상품,팔로우, 좋아요 <br>
 ## 레포지토리 
 
 <a href = "https://github.com/Uniqu-One/UniquOne_FrontEnd">
-<img width=180 src="https://img.shields.io/badge/UniquOne-Front-181717?style=plastic&logo=GitHub&logoColor=white"/>
+<img width=180 src="https://img.shields.io/badge/UniquOne-FRONT_END-181717?style=plastic&logo=GitHub&logoColor=white"/>
 </a>
 <br>
 
@@ -105,12 +105,17 @@ CI/CD,클라우드 서비스(AWS), 상품,팔로우, 좋아요 <br>
 # 백엔드 서비스 레포지토리 링크
 
 <a href = "https://github.com/Uniqu-One/uniquOne_user_service">
-<img width=250 src="https://img.shields.io/badge/UniquOne-Back_USER_SERVICE-181717?style=plastic&logo=GitHub&logoColor=white"/>
+<img width=250 src="https://img.shields.io/badge/UniquOne-BACK_USER_SERVICE-181717?style=plastic&logo=GitHub&logoColor=white"/>
 </a>
 <br>
 
 <a href = "https://github.com/Uniqu-One/uniquOne_post_service">
-<img width=250 src="https://img.shields.io/badge/UniquOne-Back_POST_SERVICE-181717?style=plastic&logo=GitHub&logoColor=white"/>
+<img width=250 src="https://img.shields.io/badge/UniquOne-BACK_POST_SERVICE-181717?style=plastic&logo=GitHub&logoColor=white"/>
+</a>
+<br>
+
+<a href = "https://github.com/Uniqu-One/uniquOne_chat_service">
+<img width=250 src="https://img.shields.io/badge/UniquOne-BACK_CHAT_SERVICE-181717?style=plastic&logo=GitHub&logoColor=white"/>
 </a>
 <br>
 
