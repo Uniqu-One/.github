@@ -98,6 +98,18 @@ https://github.com/Uniqu-One/UniquOne_FrontEnd
 <br/>
 <br/>
 
+# 백엔드 서비스 레포지토리 링크
+
+<a href = "https://github.com/Uniqu-One/uniquOne_user_service">
+<img width=120 src="https://img.shields.io/badge/유저 서비스-181717?style=plastic&logo=GitHub&logoColor=white"/>
+</a>
+<br>
+
+<a href = "https://github.com/Uniqu-One/uniquOne_post_service">
+<img width=135 src="https://img.shields.io/badge/포스트 서비스-181717?style=plastic&logo=GitHub&logoColor=white"/>
+</a>
+<br>
+
 # 백엔드 기술 스택
 
 |언어|서버|프레임워크|
