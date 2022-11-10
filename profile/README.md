@@ -6,7 +6,9 @@
 <br>
 
 ## 📅 프로젝트 기간
-- 22/09/13 - 22/11/11
+- ### <b>22.09.13 - 22.11.10</b>
+
+<br>
 
 ## 🧑‍💻 팀원 소개
 
@@ -15,6 +17,7 @@
 |<img src="https://user-images.githubusercontent.com/40711099/201016963-2d9f9291-9a9e-4b26-915c-207d8ae87e2a.png" width="100%" >|<img src="https://user-images.githubusercontent.com/40711099/201017439-f3294d73-e712-48e4-aee7-55d4c814b371.png" width="100%" >|<img src="https://user-images.githubusercontent.com/40711099/201017524-fa2eac69-52a4-4421-b10a-56d0768dfdcd.png" width="100%" >|<img src="https://user-images.githubusercontent.com/40711099/201017534-bfe8449c-ee9f-4406-a5b2-74576dfe69f2.png" width="100%" >|
 |이형민|박도균|조성범|이수연|
 |F/E|B/E|B/E|B/E|
+|서비스기획<br/>UI / UX<br/>디자인(Figma)<br/>프론트엔드 전체 개발|유저 기능<br/>검색 기능<br/>댓글 기능<br/>시큐리티 기능|CI/CD 서버 구축<br/>클라우드 서비스<br/>포스트&샵 기능<br/>팔로우&좋아요 기능|채팅 기능<br/>알림기능<br/>거래 기능<br/>리뷰 및 Q&A 기능|
 
 
 
@@ -66,8 +69,14 @@ CI/CD,클라우드 서비스(AWS), 상품,팔로우, 좋아요 <br>
 <br/>
 <br/>
 
-# 프론트엔드 기술 스택
+# 프론트엔드
 
+## 레포지토리
+https://github.com/Uniqu-One/UniquOne_FrontEnd
+
+<br/>
+
+## 기술 스택
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
@@ -118,8 +127,3 @@ CI/CD,클라우드 서비스(AWS), 상품,팔로우, 좋아요 <br>
 <br>
 <br>
 
-
-
-<br>
-<hr>
-<br>
