@@ -1,7 +1,7 @@
 ![KakaoTalk_Image_2022-11-10-10-01-08](https://user-images.githubusercontent.com/49605999/200974679-00796214-2af2-407d-8af6-99ab8228144e.png)
 
 ## 🦄 유니콘 (UniquOne)
-### [uniquone.com](uniqueone.com)
+### [https://uniquone.shop/](https://uniquone.shop/)
 
 <br>
 
